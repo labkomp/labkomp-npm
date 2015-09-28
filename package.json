@@ -1,0 +1,24 @@
+{
+  "name": "labkomp",
+  "version": "0.0.1",
+  "description": "npm package for access to the labkomp.org API.",
+  "main": "index.js",
+  "scripts": {
+    "test": "cd ts/compile && gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/labkomp/labkomp-npm.git"
+  },
+  "keywords": [
+    "laboratory"
+  ],
+  "author": "Jürgen Kunz <office@labkomp.org> (https://labkomp.org)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/labkomp/labkomp-npm/issues"
+  },
+  "homepage": "https://github.com/labkomp/labkomp-npm",
+  "dependencies": {
+  }
+}
